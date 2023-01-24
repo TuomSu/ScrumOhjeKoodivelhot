@@ -4,6 +4,7 @@ Scrum on iteratiivinen ja inkrementaalinen kehittämismenetelmä, joka soveltuu 
 
 ## Sprintit
 Sprintit ovat tiukasti aikataulutettuja jaksoja, joiden aikana projektiryhmän tavoitteena on valmistaa toimiva tuoteosuus. Sprintin kesto vaihtelee projektista toiseen, mutta yleisesti se on 2-4 viikkoa. Sprintin alussa projektiryhmä asettaa tavoitteet sprintille, ja sprintin lopussa arvioidaan, miten tavoitteet on saavutettu.
+:rocket:
 
 ## Työjonot
 Scrumissa käytetään työjonoja, jotka ovat järjestelmiä, jotka hallitsevat projektin etenemistä. Työjonoja ovat esimerkiksi To Do, In Progress ja Done. Nämä työjonot auttavat projektiryhmää seuraamaan projektin etenemistä ja varmistamaan, että kaikki tarvittavat tehtävät on suoritettu.

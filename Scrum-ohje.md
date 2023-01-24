@@ -1,11 +1,17 @@
-# Scrum-ohje projektille
-Scrum-syklin yleiskuvaus
-Scrum on iteratiivinen ja inkrementaalinen kehittämismenetelmä, joka soveltuu parhaiten muutoksenhaluisiin ja kompleksisiin projekteihin. Scrumin avulla projektin eteneminen voidaan jakaa sprintteihin, jotka ovat tiukasti aikataulutettuja jaksoja, joiden aikana projektiryhmän tavoitteena on valmistaa toimiva tuoteosuus.
+# Scrum ohje 
 
 ## Sprintit
 Sprintit ovat tiukasti aikataulutettuja jaksoja, joiden aikana projektiryhmän tavoitteena on valmistaa toimiva tuoteosuus. Sprintin kesto vaihtelee projektista toiseen, mutta yleisesti se on 2-4 viikkoa. Sprintin alussa projektiryhmä asettaa tavoitteet sprintille, ja sprintin lopussa arvioidaan, miten tavoitteet on saavutettu.
 :rocket:
+1. Scrum-syklin yleiskuvaus
+2. Sprintit
+3. Työjonot
+4. Roolit
 
+Product owner
+
+5. Kokoukset
+6. Miksi Scrum toimii?
 - Ennalta määritelty ajanjakso.
 - Yleensä kahdesta neljään viikkoa.
 - Sprintin aikana tehdään ennalta määritelty työ.

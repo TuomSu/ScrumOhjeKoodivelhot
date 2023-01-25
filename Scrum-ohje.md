@@ -5,7 +5,7 @@
 Scrum-syklin yleiskuvaus
 Scrum on iteratiivinen ja inkrementaalinen kehittämismenetelmä, joka soveltuu parhaiten muutoksenhaluisiin ja kompleksisiin projekteihin. Scrumin avulla projektin eteneminen voidaan jakaa sprintteihin, jotka ovat tiukasti aikataulutettuja jaksoja, joiden aikana projektiryhmän tavoitteena on valmistaa toimiva tuoteosuus.
 # Scrum ohje 
-# Scrum-ohje projektille // tämä osio kenties tuplana?
+# Scrum-ohje projektille // onko tämä osio tuplana?
 Scrum-syklin yleiskuvaus
 Scrum on iteratiivinen ja inkrementaalinen kehittämismenetelmä, joka soveltuu parhaiten muutoksenhaluisiin ja kompleksisiin projekteihin. Scrumin avulla projektin eteneminen voidaan jakaa sprintteihin, jotka ovat tiukasti aikataulutettuja jaksoja, joiden aikana projektiryhmän tavoitteena on valmistaa toimiva tuoteosuus.
 :rocket:

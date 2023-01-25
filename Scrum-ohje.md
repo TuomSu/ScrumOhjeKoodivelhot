@@ -1,14 +1,10 @@
 
 =======
-# Scrum-ohje projektille
-### Tekijät: Liukkonen Vesa, Huovelin Jaakko, Berg Jenny, Hörkkö Elias, Tuomi Susanna, Kiippa Alex
-Scrum-syklin yleiskuvaus
+# Scrum-ohje projektille :rocket:
+#### Tekijät: Liukkonen Vesa, Huovelin Jaakko, Berg Jenny, Hörkkö Elias, Tuomi Susanna, Kiippa Alex
+
+## Scrum-syklin yleiskuvaus
 Scrum on iteratiivinen ja inkrementaalinen kehittämismenetelmä, joka soveltuu parhaiten muutoksenhaluisiin ja kompleksisiin projekteihin. Scrumin avulla projektin eteneminen voidaan jakaa sprintteihin, jotka ovat tiukasti aikataulutettuja jaksoja, joiden aikana projektiryhmän tavoitteena on valmistaa toimiva tuoteosuus.
-# Scrum ohje 
-# Scrum-ohje projektille // onko tämä osio tuplana?
-Scrum-syklin yleiskuvaus
-Scrum on iteratiivinen ja inkrementaalinen kehittämismenetelmä, joka soveltuu parhaiten muutoksenhaluisiin ja kompleksisiin projekteihin. Scrumin avulla projektin eteneminen voidaan jakaa sprintteihin, jotka ovat tiukasti aikataulutettuja jaksoja, joiden aikana projektiryhmän tavoitteena on valmistaa toimiva tuoteosuus.
-:rocket:
 
 ## Sprintit
 Sprintit ovat tiukasti aikataulutettuja jaksoja, joiden aikana projektiryhmän tavoitteena on valmistaa toimiva tuoteosuus. Sprintin kesto vaihtelee projektista toiseen, mutta yleisesti se on 2-4 viikkoa. Sprintin alussa projektiryhmä asettaa tavoitteet sprintille, ja sprintin lopussa arvioidaan, miten tavoitteet on saavutettu. Tämä tehdään yleensä ns. Retrospektiivissä, jossa tiimi kokoontuu yhteen ja pohtii sitä, miten työskentely sprintin aikana on mennyt, millaisia ongelmia kohdattiin ja miten nämä ongelmat ratkaistiin.

@@ -1,7 +1,7 @@
 
 =======
 # Scrum-ohje projektille
-#### Tekijät: Liukkonen Vesa, Huovelin Jaakko, Berg Jenny, Hörkkö Elias, Tuomi Susanna, Kiippa Alex
+### Tekijät: Liukkonen Vesa, Huovelin Jaakko, Berg Jenny, Hörkkö Elias, Tuomi Susanna, Kiippa Alex
 Scrum-syklin yleiskuvaus
 Scrum on iteratiivinen ja inkrementaalinen kehittämismenetelmä, joka soveltuu parhaiten muutoksenhaluisiin ja kompleksisiin projekteihin. Scrumin avulla projektin eteneminen voidaan jakaa sprintteihin, jotka ovat tiukasti aikataulutettuja jaksoja, joiden aikana projektiryhmän tavoitteena on valmistaa toimiva tuoteosuus.
 # Scrum ohje 

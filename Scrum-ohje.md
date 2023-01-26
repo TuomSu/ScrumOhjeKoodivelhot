@@ -14,7 +14,19 @@ Sprintit ovat tiukasti aikataulutettuja jaksoja, joiden aikana projektiryhmän t
 Scrumissa käytetään työjonoja, jotka ovat järjestelmiä, jotka hallitsevat projektin etenemistä. Työjonoja ovat esimerkiksi To Do, In Progress ja Done. Nämä työjonot auttavat projektiryhmää seuraamaan projektin etenemistä ja varmistamaan, että kaikki tarvittavat tehtävät on suoritettu.
 
 ## Roolit
-Scrumissa on tiettyjä rooleja, joita jokaisella projektiryhmän jäsenellä on. Näitä rooleja ovat esimerkiksi Product Owner, Scrum Master ja Development Team. Product Owner vastaa tuotteen vision ja tavoitteiden hallinnasta, Scrum Master hallinnoi scrum-prosessia ja Development Team vastaa tuotteen kehittämisestä.
+Scrum - menetelmän mukaan Scrum - tiimiin kuuluu kolme roolia, jotka ovat Product Owner, Scrum Master ja Development Team. Rooli ei ole sama asia kuin henkilön toimenkuva, joten periaatteessa Scrum-tiimin roolit voidaan valita vapaasti varsinaisista työnkuvista välittämättä. Roolit auttavat Scrum-tiimiä toimimaan tehokkaasti ja saavuttamaan tavoitteensa. Seuraavaksi käydään läpi tarkemmin kukin rooli ja sen merkitys Scrum-tiimissä.
+
+- ### Scrum Master
+
+Scrum Master hallinnoi Scrum - tiimin työskentelyä ja auttaa muita tiimin jäseniä onnistumaan. Lisäksi Scrum Master vetää tiimin palavereja kuten Dailya ja Retrospektiiviä. 
+
+- ### Product Owner
+
+Product Owner vastaa tuotteen vision ja tavoitteiden hallinnasta. Product Owner hallinnoi kehitettävään tuotteen backlokia ja asettaa kehitettäviä ominaisuuksia tärkeysjärjestykseen.
+
+- ### Development Team
+
+Development Tea on itseohjautuva tiimi, joka tekee varsinaisen työn ja vastaa tuotteen kehittämisestä.
 
 ## Kokoukset
 Scrumissa on tiettyjä kokouksia, joita järjestetään säännöllisesti projektin etenemisen seuraamiseksi. Näitä kokouksia ovat esimerkiksi Sprint Planning, Daily Scrum, Sprint Review ja Sprint Retrospective. Nämä kokoukset auttavat projektiryhmää seuraamaan projektin etenemistä ja varmistamaan, että kaikki tarvittavat tehtävät on suoritettu.

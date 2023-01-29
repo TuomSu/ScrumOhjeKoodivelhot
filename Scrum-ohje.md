@@ -4,7 +4,7 @@
 #### Tekijät: Liukkonen Vesa, Huovelin Jaakko, Berg Jenny, Hörkkö Elias, Tuomi Susanna, Kiippa Alex
 
 ## Scrum-syklin yleiskuvaus
-Scrum on iteratiivinen ja inkrementaalinen kehittämismenetelmä, joka soveltuu parhaiten muutoksenhaluisiin ja kompleksisiin projekteihin. Scrumin avulla projektin eteneminen voidaan jakaa sprintteihin, jotka ovat tiukasti aikataulutettuja jaksoja, joiden aikana projektiryhmän tavoitteena on valmistaa toimiva tuoteosuus.
+Scrum on iteratiivinen ja inkrementaalinen kehittämismenetelmä, joka soveltuu parhaiten muutoksenhaluisiin ja kompleksisiin projekteihin. Scrumin avulla projektin eteneminen jaetaan sprintteihin, jotka ovat tiukasti aikataulutettuja jaksoja, joiden aikana projektiryhmän tavoitteena on valmistaa toimiva tuoteosuus.
 
 ## Sprintit
 Sprintit ovat tiukasti aikataulutettuja jaksoja, joiden aikana projektiryhmän tavoitteena on valmistaa toimiva tuoteosuus. Sprintin kesto vaihtelee projektista toiseen, mutta yleisesti se on 2-4 viikkoa. Sprintin alussa projektiryhmä asettaa tavoitteet sprintille, ja sprintin lopussa arvioidaan, miten tavoitteet on saavutettu. Tämä tehdään yleensä ns. Retrospektiivissä, jossa tiimi kokoontuu yhteen ja pohtii sitä, miten työskentely sprintin aikana on mennyt, millaisia ongelmia kohdattiin ja miten nämä ongelmat ratkaistiin.
@@ -26,7 +26,7 @@ Product Owner vastaa tuotteen vision ja tavoitteiden hallinnasta. Product Owner 
 
 - ### Development Team
 
-Development Tea on itseohjautuva tiimi, joka tekee varsinaisen työn ja vastaa tuotteen kehittämisestä.
+Development Team on itseohjautuva tiimi, joka tekee varsinaisen työn ja vastaa tuotteen kehittämisestä.
 
 ## Kokoukset
 Scrumissa on tiettyjä kokouksia, joita järjestetään säännöllisesti projektin etenemisen seuraamiseksi. Näitä kokouksia ovat esimerkiksi Sprint Planning, Daily Scrum, Sprint Review ja Sprint Retrospective. Nämä kokoukset auttavat projektiryhmää seuraamaan projektin etenemistä ja varmistamaan, että kaikki tarvittavat tehtävät on suoritettu.
@@ -34,4 +34,13 @@ Scrumissa on tiettyjä kokouksia, joita järjestetään säännöllisesti projek
 ## Miksi Scrum toimii?
 Scrum toimii, koska se on joustava ja skaalautuva menetelmä, joka mahdollistaa projektiryhmän jatkuvan parantamisen ja projektin etenemisen seuraamisen. Scrumin iteratiivisellä ja inkrementaalisella lähestymistavalla projektiryhmä voi jatkuvasti arvioida ja päivittää projektin tavoitteita ja strategioita tarpeen mukaan. Lisäksi Scrumin roolien, kokousten ja työjonojen avulla projektiryhmä voi hallita projektin etenemistä ja varmistaa, että kaikki tarvittavat tehtävät suoritetaan ajallaan. Tämä johtaa tehokkaampiin ja tuloksellisempiin projekteihin.
 :rocket: :rocket: :rocket:
+
+##### Lähteet
+
+Coursera. 2022. The 3 Scrum Roles and Responsibilities Explained. Luettavissa: *https://www.coursera.org/articles/scrum-roles-and-responsibilities*. Luettu: 29.1.2023.
+
+Schwaber, K. & Sutherland, J. 2020. The 2020 Scrum Guide. Luettavissa: *https://scrumguides.org/scrum-guide.html*. Luettu: 29.1.2023.
+
+West, D. 2023. Agile scrum roles and responsibilities. Luettavissa: *https://www.atlassian.com/agile/scrum/roles*. Luettu 29.1.2023.
+
 >>>>>>> origin/develop

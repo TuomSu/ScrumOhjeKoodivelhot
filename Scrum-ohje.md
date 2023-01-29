@@ -7,7 +7,9 @@
 Scrum on iteratiivinen ja inkrementaalinen kehittämismenetelmä, joka soveltuu parhaiten muutoksenhaluisiin ja kompleksisiin projekteihin. Scrumin avulla projektin eteneminen jaetaan sprintteihin, jotka ovat tiukasti aikataulutettuja jaksoja, joiden aikana projektiryhmän tavoitteena on valmistaa toimiva tuoteosuus.
 
 ## Sprintit
-Sprintit ovat tiukasti aikataulutettuja jaksoja, joiden aikana projektiryhmän tavoitteena on valmistaa toimiva tuoteosuus. Sprintin kesto vaihtelee projektista toiseen, mutta yleisesti se on 2-4 viikkoa. Sprintin alussa projektiryhmä asettaa tavoitteet sprintille, ja sprintin lopussa arvioidaan, miten tavoitteet on saavutettu. Tämä tehdään yleensä ns. Retrospektiivissä, jossa tiimi kokoontuu yhteen ja pohtii sitä, miten työskentely sprintin aikana on mennyt, millaisia ongelmia kohdattiin ja miten nämä ongelmat ratkaistiin.
+Sprintit ovat tiukasti aikataulutettuja jaksoja, joiden aikana projektiryhmän tavoitteena on valmistaa toimiva tuoteosuus. Sprintin kesto vaihtelee projektista toiseen, mutta yleisesti se on 2-4 viikkoa. Sprintin alussa Scrum - tiimi kokoontuu yhteen ja suunnittelee tulevaa sprinttiä. Tässä *Sprint Planning* tapaamisessa, scrum-tiimi pohtii seuraavia asioita: miksi tämä sprintti on tärkeä? Mitä tämän sprintin aikana voidaan saavuttaa? Miten nämä määritetyt työt tehdään?
+
+Sprintin aikana kehitystiimi pitää päivittäin *Daily Scrumin*, joka on 15 minuutin pituinen tapaaminen, jonka tavoitteena on suunnitella tulevaa työpäivää niin, että sprintin tavoitteiden saavuttaminen edistyy. Sprintin lopussa pidetään *Sprint Review*, jossa arvioidaan, miten tavoitteet on saavutettu. Tämän lisäksi pidetään  *Retrospektiivi*, jossa tiimi kokoontuu yhteen ja pohtii sitä, miten työskentely sprintin aikana on mennyt, millaisia ongelmia kohdattiin ja miten nämä ongelmat ratkaistiin.
 :rocket:
 
 ## Työjonot

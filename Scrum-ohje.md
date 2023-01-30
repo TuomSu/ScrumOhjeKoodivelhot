@@ -40,7 +40,7 @@ Development Team on itseohjautuva tiimi, joka tekee varsinaisen työn ja vastaa 
 Scrummissa käytetään ennaltasovittuja tapahtumia joilla pyritään luomaan säännöllisyyttä ja poistamaan muut välttämättömät tapahtumat lukuunottamatta Scrum-palavereita.
 
 ## Kokoukset
-Scrumissa on tiettyjä kokouksia, joita järjestetään säännöllisesti projektin etenemisen seuraamiseksi. Näitä kokouksia ovat esimerkiksi Sprint Planning, Daily Scrum, Sprint Review ja Sprint Retrospective. Nämä kokoukset auttavat projektiryhmää seuraamaan projektin etenemistä ja varmistamaan, että kaikki tarvittavat tehtävät on suoritettu.
+Scrumissa on tiettyjä kokouksia, joita järjestetään säännöllisesti projektin etenemisen seuraamiseksi. Näitä kokouksia ovat esimerkiksi Sprint Planning, Daily Scrum, Sprint Review ja Sprint Retrospective. Nämä kokoukset auttavat projektiryhmää seuraamaan projektin etenemistä ja varmistamaan, että kaikki tarvittavat tehtävät on suoritettu. :computer: :computer:
 
 ## Miksi Scrum toimii?
 Scrum toimii, koska se on joustava ja skaalautuva menetelmä, joka mahdollistaa projektiryhmän jatkuvan parantamisen ja projektin etenemisen seuraamisen. Scrumin iteratiivisellä ja inkrementaalisella lähestymistavalla projektiryhmä voi jatkuvasti arvioida ja päivittää projektin tavoitteita ja strategioita tarpeen mukaan. Lisäksi Scrumin roolien, kokousten ja työjonojen avulla projektiryhmä voi hallita projektin etenemistä ja varmistaa, että kaikki tarvittavat tehtävät suoritetaan ajallaan. Tämä johtaa tehokkaampiin ja tuloksellisempiin projekteihin.

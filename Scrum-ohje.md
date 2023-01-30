@@ -1,10 +1,12 @@
 
 =======
 # Scrum-ohje projektille :rocket:
-#### Tekijät: Liukkonen Vesa, Huovelin Jaakko, Berg Jenny, Hörkkö Elias, Tuomi Susanna, Kiippa Alex
+### Tekijät: Liukkonen Vesa, Huovelin Jaakko, Berg Jenny, Hörkkö Elias, Tuomi Susanna, Kiippa Alex
 
 ## Scrum-syklin yleiskuvaus
 Scrum on iteratiivinen ja inkrementaalinen kehittämismenetelmä, joka soveltuu parhaiten muutoksenhaluisiin ja kompleksisiin projekteihin. Scrumin avulla projektin eteneminen jaetaan sprintteihin, jotka ovat tiukasti aikataulutettuja jaksoja, joiden aikana projektiryhmän tavoitteena on valmistaa toimiva tuoteosuus.
+
+![alt text](https://www.seekpng.com/png/detail/359-3599997_process-png.png) Kuva https://www.seekpng.com/png/detail/359-3599997_process-png.png
 
 ## Sprintit
 Sprintit ovat tiukasti aikataulutettuja jaksoja, joiden aikana projektiryhmän tavoitteena on valmistaa toimiva tuoteosuus. Sprintin kesto vaihtelee projektista toiseen, mutta yleisesti se on 2-4 viikkoa. Sprintin alussa Scrum - tiimi kokoontuu yhteen ja suunnittelee tulevaa sprinttiä. Tässä *Sprint Planning* tapaamisessa, scrum-tiimi pohtii seuraavia asioita: miksi tämä sprintti on tärkeä? Mitä tämän sprintin aikana voidaan saavuttaa? Miten nämä määritetyt työt tehdään?
@@ -37,7 +39,7 @@ Scrumissa on tiettyjä kokouksia, joita järjestetään säännöllisesti projek
 Scrum toimii, koska se on joustava ja skaalautuva menetelmä, joka mahdollistaa projektiryhmän jatkuvan parantamisen ja projektin etenemisen seuraamisen. Scrumin iteratiivisellä ja inkrementaalisella lähestymistavalla projektiryhmä voi jatkuvasti arvioida ja päivittää projektin tavoitteita ja strategioita tarpeen mukaan. Lisäksi Scrumin roolien, kokousten ja työjonojen avulla projektiryhmä voi hallita projektin etenemistä ja varmistaa, että kaikki tarvittavat tehtävät suoritetaan ajallaan. Tämä johtaa tehokkaampiin ja tuloksellisempiin projekteihin.
 :rocket: :rocket: :rocket:
 
-##### Lähteet
+#### Lähteet
 
 Coursera. 2022. The 3 Scrum Roles and Responsibilities Explained. Luettavissa: *https://www.coursera.org/articles/scrum-roles-and-responsibilities*. Luettu: 29.1.2023.
 

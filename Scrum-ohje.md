@@ -15,9 +15,11 @@ Sprintin aikana kehitystiimi pitää päivittäin *Daily Scrumin*, joka on 15 mi
 :rocket:
 
 ## Työjonot
-Scrumissa käytetään työjonoja, jotka ovat järjestelmiä, jotka hallitsevat projektin etenemistä. Työjonoja ovat esimerkiksi To Do, In Progress ja Done. Nämä työjonot auttavat projektiryhmää seuraamaan projektin etenemistä ja varmistamaan, että kaikki tarvittavat tehtävät on suoritettu.
+Scrumissa käytetään työjonoja, jotka ovat järjestelmiä, jotka hallitsevat projektin etenemistä. Työjonoja ovat tuotteen kehitysjono sekä sprintin kehitysjono. Nämä työjonot auttavat projektiryhmää seuraamaan projektin etenemistä ja varmistamaan, että kaikki tarvittavat tehtävät on suoritettu.
 
 Projektin tuoteosuudet järjestetään tuotteen kehitysjonoksi eli listaksi, joka sisältää tuotteelle tärkeitä toiminnallisuuksia. Tarkoituksena on järjestää lista tärkeysjärjestykseen, jotta tuotteelle oleellisimmat asiat saataisiin tehtyä ensin. Kehitysjonon kohtia olisi tärkeää hioa sellaisiksi, että yksi kohta voidaan toteuttaa yhden sprintin aikana. Tällöin tuoteosuus katsotaan valmistelluksi, ja se voidaan *Sprint Planning* tapaamisessa valita toteutettavaksi seuraavassa sprintissä.
+
+Sprintin kehitysjono sisältää sprintin tavoitteen, sprinttiin valitut kohdat tuotteen kehitysjonosta ja suunnitelman sprintin läpiviemiseen työvaiheineen. Kehitysjonon on tarkoitus olla tarpeeksi yksityiskohtainen suunnitelma, jotta edistymistä voidaan seurata ja tarkastella päivittäispalavereissa. 
 
 ## Roolit
 Scrum - menetelmän mukaan Scrum - tiimiin kuuluu kolme roolia, jotka ovat Product Owner, Scrum Master ja Development Team. Rooli ei ole sama asia kuin henkilön toimenkuva, joten periaatteessa Scrum-tiimin roolit voidaan valita vapaasti varsinaisista työnkuvista välittämättä. Roolit auttavat Scrum-tiimiä toimimaan tehokkaasti ja saavuttamaan tavoitteensa. Seuraavaksi käydään läpi tarkemmin kukin rooli ja sen merkitys Scrum-tiimissä.

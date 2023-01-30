@@ -48,10 +48,10 @@ Scrum toimii, koska se on joustava ja skaalautuva menetelmä, joka mahdollistaa 
 
 #### Lähteet
 
-Coursera. 2022. The 3 Scrum Roles and Responsibilities Explained. Luettavissa: *https://www.coursera.org/articles/scrum-roles-and-responsibilities*. Luettu: 29.1.2023.
+Coursera. 2022. The 3 Scrum Roles and Responsibilities Explained. Luettavissa: *https://www.coursera.org/articles/scrum-roles-and-responsibilities*. Luettu: 29.1.2023. :pushpin:
 
-Schwaber, K. & Sutherland, J. 2020. The 2020 Scrum Guide. Luettavissa: *https://scrumguides.org/scrum-guide.html*. Luettu: 29.1.2023.
+Schwaber, K. & Sutherland, J. 2020. The 2020 Scrum Guide. Luettavissa: *https://scrumguides.org/scrum-guide.html*. Luettu: 29.1.2023. :pushpin:
 
-West, D. 2023. Agile scrum roles and responsibilities. Luettavissa: *https://www.atlassian.com/agile/scrum/roles*. Luettu 29.1.2023.
+West, D. 2023. Agile scrum roles and responsibilities. Luettavissa: *https://www.atlassian.com/agile/scrum/roles*. Luettu 29.1.2023. :pushpin:
 
 >>>>>>> origin/develop

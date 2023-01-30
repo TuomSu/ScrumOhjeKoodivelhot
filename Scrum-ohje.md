@@ -36,6 +36,9 @@ Product Owner vastaa tuotteen vision ja tavoitteiden hallinnasta. Product Owner 
 
 Development Team on itseohjautuva tiimi, joka tekee varsinaisen työn ja vastaa tuotteen kehittämisestä.
 
+## Tapahtumat 
+Scrummissa käytetään ennaltasovittuja tapahtumia joilla pyritään luomaan säännöllisyyttä ja poistamaan muut välttämättömät tapahtumat lukuunottamatta Scrum-palavereita.
+
 ## Kokoukset
 Scrumissa on tiettyjä kokouksia, joita järjestetään säännöllisesti projektin etenemisen seuraamiseksi. Näitä kokouksia ovat esimerkiksi Sprint Planning, Daily Scrum, Sprint Review ja Sprint Retrospective. Nämä kokoukset auttavat projektiryhmää seuraamaan projektin etenemistä ja varmistamaan, että kaikki tarvittavat tehtävät on suoritettu.
 
